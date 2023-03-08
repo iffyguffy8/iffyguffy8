@@ -1,16 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&height=230&section=header&text=Welcome!&fontSize=70&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38&descAlignY=51&descAlign=65)
 
-<!--
-**iffyguffy8/iffyguffy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+👨‍💻 <b>About Me</b> 👨‍💻<br><br>
+Bachelor of Computer Science<br>
+Graduated Gyeongsang National University<br><br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 <b>Tech Stack</b> 🚀<br><br>
+<img src="https://img.shields.io/badge/Python-007396?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-FF6550?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square"/>
+</div>
